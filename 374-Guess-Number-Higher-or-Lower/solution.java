@@ -21,4 +21,5 @@ public class Solution extends GuessGame {
         }
         return mid;
     }
+    //关键是整数会溢出。
 }
